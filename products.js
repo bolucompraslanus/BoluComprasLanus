@@ -181,6 +181,14 @@ const products = [
     },
     {
         id: 22,
+        name: 'Linterna Táctica Led Recargable Zoom',
+        category: 'Herramientas',
+        price: 25000,
+        image: 'https://http2.mlstatic.com/D_NQ_NP_2X_864244-CBT120267986695_102026-F.webp',
+        description: 'Recargable a USB *Luces laterales *Funcion: La luz principal es fuerte, debil y parpadea durante mucho tiempo'
+    },
+    {
+        id: 23,
         name: 'Pava Electrica con Corte para Mate Gacyf',
         category: 'hogar',
         price: 25000,
