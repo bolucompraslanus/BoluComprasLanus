@@ -189,6 +189,14 @@ const products = [
     },
     {
         id: 23,
+        name: 'Colchoneta Colchón Inflable 1 Plaza Con Inflador Integrado Almohada Plegable Portátil Con Bolsa Para Interior Exterior',
+        category: 'Herramientas',
+        price: 43000,
+        image: 'https://http2.mlstatic.com/D_NQ_NP_2X_970739-MLA95518942820_102025-F.webp',
+        description: '• Inflador integrado: incorpora un sistema de inflado en la propia colchoneta que puede accionarse mediante presión con las manos o los pies. • Almohada incorporada: la zona superior presenta un sector elevado integrado para apoyar la cabeza.'
+    },
+    {
+        id: 24,
         name: 'Pava Electrica con Corte para Mate Gacyf',
         category: 'hogar',
         price: 25000,
